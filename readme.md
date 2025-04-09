@@ -1,3 +1,5 @@
+
+
 # RiskiStore
 
 A modern e-commerce web application built with a robust tech stack. The frontend is developed using React with TypeScript for type safety and better developer experience, powered by Vite for lightning-fast builds. The backend is built with NestJS, a progressive Node.js framework, with PostgreSQL as the database and Apache Kafka for event streaming. The entire application is containerized using Docker for consistent development and deployment environments.
